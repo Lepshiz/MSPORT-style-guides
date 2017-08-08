@@ -1,7 +1,6 @@
 # MSPORT style guides
 
-<h2 id="table-of-contents">Содержание</h2>
-
+<h3 id="table-of-contents">Содержание</h3>
 1. [Терминология](#terminology)
     - [Объявление правил](#rule-declaration)
     - [Селекторы](#selectors)
