@@ -19,8 +19,7 @@
     - Порядок объявления свойств 
     - Наследование
 1. [Линтинг кода](#style-lint)
-    - Style Lint
-    - Конфигурационны файл линтера
+    - [Конфигурационны файл линтера](#style-lint-config)
 1. [Организация файловой структуры](#css-file-structure)
 
 <h2 id="terminology">Терминология</h2>
@@ -188,15 +187,13 @@ margin: 0 auto /* нет точки с запятой в конце :( */
     
 <h2 id="style-lint">Линтинг кода</h2>
 
-<h3>Style Lint</h3>
-
 В проекте используемы CSS линтер StyleLint. [stylelint.io](https://stylelint.io/) - современный иснструмент для проверки качества и форматирования CSS кода, поддерживает большое количество разнообразных правил.
 
 Для проверки кода на лету, рекомендуем добавить соответствующий плагин для вашей IDE/редактора, список плагинов можно [посмотреть на сайте](https://stylelint.io/user-guide/complementary-tools/#editor-plugins).
 
-<h3>Конфигурационны файл линтера</h3>
+<h3 id="style-lint-config">Конфигурационны файл линтера</h3>
 
-
+[Стандартный конфиг для проекта MSPORT](https://github.com/Lepshiz/MSPORT-style-guides/blob/master/stylelint.config.json)
 
 
 <h2 id="css-file-structure">Организация файловой структуры</h2>
